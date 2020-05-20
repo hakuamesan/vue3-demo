@@ -3,6 +3,7 @@ VueJS 3 demo with composition api
 
 <details>
 <summary> Click to see how to install </summary>
+
 ## Project setup
 ```
 pnpm install
