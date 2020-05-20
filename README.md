@@ -1,6 +1,8 @@
 # vue3-demo1
 VueJS 3 demo with composition api
 
+<details>
+<summary> Click to see how to install </summary>
 ## Project setup
 ```
 pnpm install
@@ -23,3 +25,5 @@ pnpm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+</details>
+
