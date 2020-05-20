@@ -1,4 +1,5 @@
 # vue3-demo1
+VueJS 3 demo with composition api
 
 ## Project setup
 ```
